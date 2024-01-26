@@ -1,6 +1,11 @@
 # Bioinformatics Resources: An Introduction
 
-![Logo](img/bio.png)
+<p align="center">
+    <img src="img/bio.png" width="500" height="500" alt="Description of Image">
+</p>
+
+
+### Description
 
 Programming and mathematics resources for an introductory review of bioinformatics problems. 
 
